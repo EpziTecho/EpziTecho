@@ -10,14 +10,9 @@
 
 <div align="center">
  
-/* 🔭 I’m currently working on **a chat app**
+🎓 I'm in the ninth semester of Software Engineering at the Technological University of Peru.
+📚 I'm learning Machine Learning and data analysis with Python.
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
-
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-*/
  </div>
  
 <div align="center"> 

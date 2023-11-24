@@ -50,7 +50,6 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="https://github.com/EpziTecho/EpziTecho/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-  <img alt="snake eating my contributions" src="https://github.com/EpziTecho/EpziTecho/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>

@@ -10,8 +10,8 @@
 
 <div align="center">
  
-🎓 I'm in the ninth semester of Software Engineering at the Technological University of Peru.
-📚 I'm learning Machine Learning and data analysis with Python.
+🎓 I'm in the ninth semester of Software Engineering at the Technological University of Peru.**
+📚 I'm learning Machine Learning and data analysis with Python.**
  
  </div>
  

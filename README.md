@@ -12,7 +12,7 @@
  
 🎓 I'm in the ninth semester of Software Engineering at the Technological University of Peru.**
 
-📚 I'm learning Machine Learning and data analysis with Python.**
+📚 Currently, I am interested in and learning about Machine Learning and data analysis with Python.**
  
  </div>
  

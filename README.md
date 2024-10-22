@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🎓 I'm in the ninth semester of Software Engineering at the Technological University of Peru.**
+🎓 I'm a graduate of Software Engineering from the Technological University of Peru.**
 
-📚 Currently, I am interested in and learning about Machine Learning and data analysis with Python.**
+📚 Currently, I am interested in back-end developing, learning about Machine Learning and data analysis with Python.**
  
  </div>
  

@@ -12,7 +12,7 @@
  
 🎓 I'm a graduate of Software Engineering from the Technological University of Peru.**
 
-📚 Currently, I am interested in back-end developing, learning about Machine Learning and data analysis with Python.**
+📚 Currently, I am interested in back-end development, learning about Machine Learning and data analysis with Python.**
  
  </div>
  
